@@ -8,7 +8,7 @@ license = "GPL-3.0-or-later"
 repository = "https://github.com/darioila/myHouse"
 
 download = "https://github.com/darioila/myHouse/releases/download/v1.1/myhouse.zip"
-sha256 = "d43c14972524c5432d270cd9434453f2f85166d1071171c59183f7d6ae265e5c"
+sha256 = "6b6d4b4ec90b5c0841fbfd87849f88870c726240bd3005c5bb267fefee8ac8ea"
 
 ingetrazo = "0.5.11"
 
